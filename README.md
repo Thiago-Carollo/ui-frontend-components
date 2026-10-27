@@ -1,6 +1,6 @@
 # 🎨 UI & Frontend Components Collection
 
-Colección modular de componentes de interfaz de usuario (UI), maquetas web y efectos visuales interactivos desarrollados con tecnologías web fundamentales.
+Colección modular de componentes de interfaz de usuario (UI), maquetas web y efectos visuales interactivos desarrollados con HTML, CSS, SCSS y JavaScript.
 
 ---
 
@@ -8,11 +8,11 @@ Colección modular de componentes de interfaz de usuario (UI), maquetas web y ef
 
 | Componente | Descripción | Tecnologías |
 | :--- | :--- | :---: |
-| **🧮 Calculator** | Calculadora interactiva con selector de tema claro/oscuro (Dark/Light mode). | HTML, SCSS, JavaScript |
-| **🔑 Login & Register** | Formulario responsivo de autenticación e inicio de sesión con animaciones. | HTML, CSS, JavaScript |
-| **🔘 Buttons with Effects** | Colección de botones interactivos con efectos de hover y animaciones CSS. | HTML, CSS |
-| **✨ Effects Collection** | Galería con efectos visuales para tarjetas (cards), banners y contenedores. | HTML, CSS |
-| **⚠️ Custom Error 404** | Maquetas y plantillas de diseño personalizado para páginas de error 404. | HTML, CSS |
+| **🧮 Calculator** | Calculadora interactiva con selector de modo claro y oscuro. | HTML, SCSS, JavaScript |
+| **🔑 Login and Register** | Formulario responsivo de autenticación e inicio de sesión. | HTML, CSS, JavaScript |
+| **🔘 Buttons** | Colección de botones interactivos con efectos de hover. | HTML, CSS |
+| **✨ Effects** | Galería con efectos visuales para tarjetas (cards) y contenedores. | HTML, CSS |
+| **⚠️ Error 404** | Plantillas de diseño personalizado para páginas de error 404. | HTML, CSS |
 
 ---
 
